@@ -1,0 +1,22 @@
+.poster-wrapper {
+  background-color:black;
+  border-color: lightseagreen;
+  border-style: solid;
+}
+
+
+.img-wrapper {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.img {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+
+.img-description {
+  color: white;
+}
