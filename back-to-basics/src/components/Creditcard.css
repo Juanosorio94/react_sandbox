@@ -1,0 +1,21 @@
+.card-background {
+  margin-top: 200px;
+  margin-left: 200px;
+  background-color: #3253af;
+  color: white;
+  border-radius: 20px;
+  padding: 20px 20px 20px 20px;
+  width: 480px;
+  min-height: 200px
+}
+
+.bank-name::after {
+  content: "."
+}
+.bank-name {
+  display: inline-block;
+}
+.float-right {
+  float:right;
+}
+

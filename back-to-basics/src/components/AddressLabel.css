@@ -1,0 +1,6 @@
+.address-label {
+  line-height: 20px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  display: inline-block;
+}
